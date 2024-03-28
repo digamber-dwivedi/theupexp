@@ -1,0 +1,26 @@
+/* ArticleList.css */
+
+.article-list {
+    margin-top: 20px;
+  }
+  
+  .article-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .article-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .article-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .article-list li h3 {
+    margin-top: 0;
+  }
+  

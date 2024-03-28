@@ -1,0 +1,76 @@
+/* App.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* ArticleList component styles */
+  .article-list {
+    margin-top: 20px;
+  }
+  
+  .article-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .article-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .article-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .article-list li h3 {
+    margin-top: 0;
+  }
+  
+  /* LoginForm component styles */
+  .login-form {
+    margin-top: 20px;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .login-form form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  .login-form input {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .login-form button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* DarkModeToggle component styles */
+  .dark-mode-toggle {
+    margin-top: 20px;
+  }
+  
+  .dark-mode-toggle label {
+    margin-left: 5px;
+  }
+  
