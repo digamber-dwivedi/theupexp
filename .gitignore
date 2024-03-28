@@ -1,0 +1,26 @@
+# Node.js & NPM
+node_modules/
+
+# Compiled files
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Editor-specific files
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Dependency lock files
+package-lock.json
+yarn.lock
